@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	width:960px;
+	margin: auto;
+}
+#header {
+	background-color: #FF7F24;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 46px;
+}
+#middle {
+	padding-top: 15px;
+	width: 80%;
+	min-height: 300px;
+	margin: 0 auto;
+	padding:20px;
+	background-color: white;
+}
+#bottom {
+	background-color: #FF7F24;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 33px;
+}
+#spHeadAR {
+	margin-left: 4px;
+}
+#map_div {
+	margin: 0 auto;
+	width: 100%;
+	height: 460px;
+}
+#spTopRight {
+	margin: 0 auto;
+	text-align: center;
+	width: 80%;
+	height: 460px;
+	border: 3px solid;
+	border-color: silver; 
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+}
+#spBottonCenter {
+	margin-top: 465px;
+	text-align: center;
+	width: 100%;
+	height: 105px;
+}
+#fsTabSearch {
+	width:225px;
+	background-color:white;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	position:relative;
+	margin:0 auto;
+	border:2px solid;
+	border-color: silver;
+}
+#tabSearch2 {
+	width: 50%;
+	margin: 0 auto;
+}
+#tabSearch2  td {
+	text-align: center;
+}
+#tabSearch {
+	width: 100%;
+}
+#tabSearch  select {
+	text-align: center;
+	width: auto;
+}
+#tabSearch  td {
+	text-align: center;
+}
+#regATag {
+}
+#logATag {
+}
+.headerATag {
+	margin-top: 2px;
+}
